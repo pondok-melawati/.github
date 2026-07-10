@@ -1,11 +1,4 @@
 ---
-title: Melawati Enterprise
-emoji: 🏛️
-colorFrom: gray
-colorTo: pink
-sdk: static
-pinned: true
----
 
 <p align="center">
   <img src="khazanah/pm-kepala.png" alt="Melawati" width="100%">
